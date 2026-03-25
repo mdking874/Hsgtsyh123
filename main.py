@@ -4,7 +4,7 @@ import logging
 from telegram.ext import Updater, MessageHandler, Filters
 
 # আপনার সঠিক টোকেনটি এখানে বসানো হয়েছে
-TOKEN = '771526754:AAF338IlEXNXwXQ_y-Zwiop0JQdu3OPIBKk'
+TOKEN = '78688295427:AAGg8lr8lgBbfcDki8VVgMN2vG5vU2VIcXM'
 FRAME_PATH = 'frame.jpg'
 
 # লগিং সেটআপ (বটে কোনো সমস্যা হলে তা দেখার জন্য)
